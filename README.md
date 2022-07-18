@@ -1,4 +1,4 @@
-## Olá, sou a Patrícia Tamega!
+## Um pouco de mim em números!
 
 <div align="center">
   <a href="https://github.com/patriciatamega">
