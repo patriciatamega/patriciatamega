@@ -1,27 +1,39 @@
-## Um pouco sobre mim em números!
+## Meus números no Github!
 
+<br>
 <div>
   <a href="https://github.com/patriciatamega">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciatamega&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciatamega&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <h3 dir="auto"><a href="https://www.linkedin.com/in/abner-santos-9a9b7373/" rel="nofollow"></a><a id="user-content-minhas-skills" class="anchor" href="#minhas-skills" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Meus conhecimentos:</h3><br>
- <img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="html" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
-  <img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
-  <img src="https://camo.githubusercontent.com/f51bee89dcc6e95ace4b767c808a8b7b1078c2dad5821d5b9d0b20ebdbc8649f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6162656c436f6c6f723d3044313131372674657874436f6c6f723d304431313137" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&amp;logo=javascript&amp;labelColor=0D1117&amp;textColor=0D1117" style="max-width: 100%;">
-  <img src="https://camo.githubusercontent.com/6cf9abe9d706421df40ff4feff208a5728df2b77f9eb21f24d09df00a0d69203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="typescript" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;">
-  <img src="https://camo.githubusercontent.com/77db13d779784b2a9f974d451306d2be7147eab22d389219adbc6898efe6aae6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e4a532d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6162656c436f6c6f723d3044313131372674657874436f6c6f723d304431313137" alt="Node.JS" data-canonical-src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&amp;logo=node.js&amp;labelColor=0D1117&amp;textColor=0D1117" style="max-width: 100%;"><br>
-    <h3 dir="auto"><a href="https://www.linkedin.com/in/abner-santos-9a9b7373/" rel="nofollow"></a><a id="user-content-minhas-skills" class="anchor" href="#minhas-skills" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Estudando:</h3><br>
-  <img src="https://camo.githubusercontent.com/9a2ddf2bacab4119a931ada7bc7ded01c147c1d88602654c46c26e9af65f6273/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6d7973716c2d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6162656c436f6c6f723d304431313137" alt="MySQL" data-canonical-src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&amp;logo=mysql&amp;labelColor=0D1117" style="max-width: 100%;">
-  <img src="https://camo.githubusercontent.com/8849f369ac031cc842a4ab4248c7f7db6a4b593cad1f2d1c01d3aeb6f0f8dca7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536173732d4343363639393f7374796c653d666f722d7468652d6261646765266c6f676f3d73617373266c6f676f436f6c6f723d7768697465" alt="Saas" data-canonical-src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" style="max-width: 100%;">
-  
- <div style="display: inline_block"><br>
-      <h3 dir="auto"><a href="https://www.linkedin.com/in/abner-santos-9a9b7373/" rel="nofollow"></a><a id="user-content-minhas-skills" class="anchor" href="#minhas-skills" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Meus contatos:</h3><br>
- <a href="https://discord.com/#4680" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pat.tamega@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/patriciatamega" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<br>
+
+## Meu objetivo <br>
+
+Desenvolvimento full stack<br>
+<br>
+
+> ### Estudei e continuo estudando:
+
+<div style="display: inline_block;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="width: 50px; padding: 20px 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 50px; padding: 20px 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width: 45px; padding: 20px 20px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="width: 45px; padding: 20px 10px;" />
+</div><br>
+<br>
+
+> ### Estudando:<br>
+
+<div style="display: inline_block;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: 50px; padding: 20px 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="width: 50px; padding: 20px 10px;"/>
+</div><br>
+<br>
+
+> ### Estudarei:
+
+<div style="display: inline_block;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" style="width: 60px; padding: 15px 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="width: 50px; padding: 20px 10px;"/>
 </div>
- 
-##
