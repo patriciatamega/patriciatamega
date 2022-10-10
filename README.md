@@ -32,6 +32,7 @@ Desenvolvimento full stack<br>
 <div style="display: inline_block;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: 50px; padding: 0 20px 0 0;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="width: 50px; padding: 0;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width: 50px; padding: 0;"/>
 </div><br>
 <br>
 
