@@ -1,4 +1,4 @@
-## Meu objetivo é o desenvolvimento de aplicações de ponta<br>
+##
 
 Desenvolvimento full stack<br>
 <br>
